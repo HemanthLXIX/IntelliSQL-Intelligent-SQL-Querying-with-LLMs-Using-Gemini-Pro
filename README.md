@@ -58,16 +58,16 @@ Screenshots
 Below are sample screenshots from the application placed in  `screenshots/` folder and referenced as shown.
 
 Home Page:
-![Home Page](screenshots/home_page.png)
+![Home Page](Screenshots/home_page.png)
 
 About Page:
-![About Page](screenshots/about_page.png)
+![About Page](Screenshots/about_page.png)
 
 Query Assistance Page:
-![Query Assistance](screenshots/query_assistance.png)
+![Query Assistance](Screenshots/query_assistance.png)
 
 Query Result Example:
-![Query Result](screenshots/query_result.png)
+![Query Result](Screenshots/query_result.png)
 
 Demo Video
 ----------
