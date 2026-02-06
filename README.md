@@ -73,7 +73,7 @@ Demo Video
 ----------
 Placed in demo video in the `demo/` folder and linked as shown below:
 
-[Click here to watch the demonstration video](demo/demo.mp4)
+[Click here to watch the demonstration video](Demo/demo.mp4)
 
 Credits
 -------
