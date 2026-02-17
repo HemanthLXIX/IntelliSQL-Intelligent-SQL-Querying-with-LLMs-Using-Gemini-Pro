@@ -77,7 +77,7 @@ Placed in demo video in the `demo/` folder and linked as shown below:
 
 Credits
 -------
-- Project Developer: Atmikha Narayan
+- Project Developer: Samudram Hemanth
 - LLM Integration: Google Gemini Pro
 - UI Framework: Streamlit
 - Version Control: GitHub
