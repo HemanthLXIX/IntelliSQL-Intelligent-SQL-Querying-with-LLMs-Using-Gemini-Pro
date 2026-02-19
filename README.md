@@ -77,12 +77,12 @@ Placed in demo video in the `demo/` folder and linked as shown below:
 
 Team Details
 ------------
-Team ID : LTVIP2026TMIDS60653
-Team Size : 4
-Team Leader : Samudram Hemanth
-Team member : Meesala Pavan Kumar
-Team member : Vardhanapu Surya Prakash
-Team member : Deepthi Seelam
+- Team ID : LTVIP2026TMIDS60653
+- Team Size : 4
+- Team Leader : Samudram Hemanth
+- Team member : Meesala Pavan Kumar
+- Team member : Vardhanapu Surya Prakash
+- Team member : Deepthi Seelam
 
 Credits
 -------
