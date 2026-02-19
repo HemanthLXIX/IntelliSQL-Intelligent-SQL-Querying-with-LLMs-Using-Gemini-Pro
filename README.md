@@ -75,9 +75,17 @@ Placed in demo video in the `demo/` folder and linked as shown below:
 
 [Click here to watch the demonstration video](Demo/demo.mp4)
 
+Team Details
+------------
+Team ID : LTVIP2026TMIDS60653
+Team Size : 4
+Team Leader : Samudram Hemanth
+Team member : Meesala Pavan Kumar
+Team member : Vardhanapu Surya Prakash
+Team member : Deepthi Seelam
+
 Credits
 -------
-- Project Developer: Samudram Hemanth
 - LLM Integration: Google Gemini Pro
 - UI Framework: Streamlit
 - Version Control: GitHub
